@@ -1,4 +1,4 @@
-import { Button, MantineProvider, Title, createTheme } from "@mantine/core";
+import { Button, createTheme, MantineProvider, Title } from "@mantine/core";
 import { useState } from "react";
 
 const theme = createTheme({
